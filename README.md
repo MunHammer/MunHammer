@@ -1,16 +1,11 @@
-## Hi there 👋
+# An intermediate programmer interested in compilers
+- I'm currently working on a brainfuck compiler in rust, with all of the core compiler written from scratch
+- I know: `Rust`, 中文, English, `Python`
+- I'm learning: `C`
+- Things I've made:
+  - A [discord bot](https://discordapp.com/oauth2/authorize?client_id=1447797920396087469&scope=bot&permissions=274878162944)
+  - A brainfuck transpiler in python
 
-<!--
-**MunHammer/MunHammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Outside of tech:
+- I am a cis, heterosexual male
+- I like art, archery & reading
